@@ -29,7 +29,8 @@
 
 <img align="left" style="margin-right: 10px" alt='HTML5' width=30px src='https://www.codewars.com/packs/assets/logo.61192cf7.svg'/>[Codewars](https://www.codewars.com/users/ChrisYuneva)
 
+<p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisYuneva&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisYuneva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+</p> 
 
 
