@@ -1,9 +1,9 @@
 ## Hi, I'm Chrtistina Yuneva
 
-### I am a beginner junior-frontend developer😊 
+### I am a junior-frontend developer😊 
 ### Currently actively looking for a job 👀 
 
-#### 🎓 I am a 5th year student at a technical university with a degree in information security
+#### 🎓 I graduated from a technical university with an honors degree in information security 
 #### 💻 Participated in 4 hackathons. In one of them, our team took an honorable 3rd place. I also do various projects to develop my skills
 #### 🌐 My English level is A2, but I try very hard to improve
 
